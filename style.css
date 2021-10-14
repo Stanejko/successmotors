@@ -2,7 +2,6 @@
     background-image: url(sf.png);
     background-size: 100% 800px;
     background-color: #F4F6F9; 
-    background-attachment:scroll;
     background-clip: content-box;
 }
 
